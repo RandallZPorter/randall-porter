@@ -38,3 +38,4 @@ Below are some external resources you may find helpful in building a GitHub page
 My name is Randall Porter, and I am in the undergraduate Computer Science program
 
 I like pictures of ships.
+![Ship](https://github.com/RandallZPorter/randall-porter/raw/master/HC-Port-Side-Full-Sail.jpg "Ship")
