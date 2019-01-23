@@ -15,4 +15,14 @@ Below are the links to my repositories and my GitHub pages.
 ## About
 This repository contains information about me, what I do, and links to my Github Pages.
 
+## Required Tools
+Publishing a repository with GitHub pages is very simple, and requirements are minimal. For resources about these tools, see the "Resources" section.
 
+The required tools:
+- An internet connection to GitHub's website
+- A public repository with a README.md file
+- Some knowledge of the language Markdown
+
+Other recommended tools:
+- Knowledge of HTML, CSS, and JavaScript
+- A version control tool (such as Git or SVN) if working collaboratively
