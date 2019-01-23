@@ -30,6 +30,6 @@ Other recommended tools:
 ## Recommended Resources
 
 Below are some external resources you may find helpful in building a GitHub pages website:
--  resource 1
-- resource 2
-- resource 3
+- W3Schools (https://www.w3schools.com/)
+- Markdown Cheat Sheet (https://www.markdownguide.org/cheat-sheet)
+- GitHub Pages Guide (https://pages.github.com/)
