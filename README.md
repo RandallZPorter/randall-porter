@@ -28,7 +28,8 @@ Other recommended tools:
 - A version control tool (such as Git or SVN) if working collaboratively
 
 ## Recommended Resources
+
 Below are some external resources you may find helpful in building a GitHub pages website:
--  
-- 
-- 
+-  resource 1
+- resource 2
+- resource 3
