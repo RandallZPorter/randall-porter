@@ -33,3 +33,8 @@ Below are some external resources you may find helpful in building a GitHub page
 - W3Schools (https://www.w3schools.com/)
 - Markdown Cheat Sheet (https://www.markdownguide.org/cheat-sheet)
 - GitHub Pages Guide (https://pages.github.com/)
+
+## Contributors
+My name is Randall Porter, and I am in the undergraduate Computer Science program
+
+I like pictures of ships.
