@@ -3,8 +3,8 @@
 ## My Repositories
 Below are the links to my repositories and my GitHub pages.
 - randall-porter
-    - https://github.com/RandallZPorter/randall-porter
-    - https://randallzporter.github.io/randall-porter/
+    - [https://github.com/RandallZPorter/randall-porter](https://github.com/RandallZPorter/randall-porter)
+    - [https://randallzporter.github.io/randall-porter/](https://randallzporter.github.io/randall-porter/)
 - powershell-forms-workshop
     - https://github.com/RandallZPorter/powershell-forms-workshop
     - https://randallzporter.github.io/powershell-forms-workshop/
